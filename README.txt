@@ -1,7 +1,7 @@
-GK_proj1 - edytor wielokątów i okręgów
-Autor: Jakub Rymuza
+Polygon and circle editor with option to add relations (parallel/perpendicular lines etc)
+Author: Jakub Rymuza
 
----
+Manual in polish:
 
 Instrukcja obsługi:
 
